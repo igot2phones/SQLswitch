@@ -6,4 +6,4 @@ This script wotks if the SQL service is named MySQL80 !!
 
 # To do...
 - Make it work with difrently Named Services
-- Make it ask for admin automatically
+- Make it ask for admin automatically (Done)
