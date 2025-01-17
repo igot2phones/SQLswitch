@@ -20,7 +20,7 @@ net session >nul 2>&1
 if %errorlevel% == 0 (
     echo Success: Administrative permissions confirmed.
 ) else (
-    echo Failure: This script must be run as an Administrator!
+    echo Failure: This script must be run as an Administrator Please !
     pause >nul
     exit /b
 )
